@@ -1,0 +1,16 @@
+{
+    "name": "immujahidkhan/Php_Number_Formatter",
+    "type": "library",
+    "description": "Php Number Formatter",
+    "keywords": ["relevant","tags","go","here"],
+    "homepage": "https://github.com/immujahidkhan/Php_Number_Formatter",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mujahid Khan",
+            "email": "immujahidkhan6@gmail.com",
+            "homepage": "https://github.com/immujahidkhan/",
+            "role": "Developer"
+        }
+    ],
+}
